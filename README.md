@@ -15,7 +15,7 @@ At the end, a new markdown file will be generated will all the includes complete
 ## How Install
 
 Process :
-1. Build the project to get the exe file
+1. Build the project to get the exe file or unzip the "Release" folder
 2. Put the exe file in a dedicated folder
 3. Register the exe file path in your environment variables
 4. You succeed if the following command pass
