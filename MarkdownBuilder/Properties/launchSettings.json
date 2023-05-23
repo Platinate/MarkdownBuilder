@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkdownBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "--directory \"C:\\Users\\Nathan Dolinski\\Documents\\Personal\\Cheat Sheets\\Gamma World\""
+    }
+  }
+}
